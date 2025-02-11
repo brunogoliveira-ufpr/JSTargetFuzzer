@@ -1,0 +1,10 @@
+const v2 = new Uint16Array(3);
+const v5 = new Uint8ClampedArray(2);
+const v8 = new Uint32Array(4096);
+const v11 = new Uint8Array(6);
+const v14 = new Uint16Array(16);
+new BigInt64Array(1000);
+new BigInt64Array(...v5, 1073741824, ...v14, 3, Uint32Array);
+v11.length >>= -14;
+1000 << v2;
+v8[Symbol.replace];

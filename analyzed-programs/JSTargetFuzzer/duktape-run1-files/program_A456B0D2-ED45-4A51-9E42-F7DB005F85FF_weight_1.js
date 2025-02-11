@@ -1,0 +1,10 @@
+[65535,7,8,48966];
+[256,692225589];
+[-1,1089008471,536870912,129,-51248];
+new Uint16Array(16);
+new BigInt64Array(127);
+new Int8Array(1096);
+new Int16Array(16);
+const v20 = new Int8Array(58);
+new Uint8Array(257);
+Object.defineProperty(v20, 6, { configurable: true, enumerable: true, value: 16 });

@@ -1,0 +1,27 @@
+const v0 = [-79359.82647433097,2.2250738585072014e-308,-0.0,-8.338242238467897];
+const v1 = [-2.0,-5.0,181216.92096564476,2.0,1000000000.0,-1e-15,-1000000000000.0,860658.498944625];
+const v2 = [-1000.0,1.667385257717599e+308,1000.0,0.7969554128770109,4.0,3.0,0.8592768829157481,1.5967252175755235e+308];
+function F3(a5, a6) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.a = v2;
+    this.f = v2;
+    this.b = a6;
+}
+let v7;
+try { v7 = F3(v2, v0); } catch (e) {}
+function F8(a10) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.h = v1;
+    this.b = v7;
+    this.a = v2;
+}
+new F8(v1);
+new F8(v2);
+new F8(v1);
+const v14 = new F3(v1, v1);
+new F3(v1, v14);
+new F3(v1, v1);
+new Float32Array(171);
+new Float32Array(3964);
+new Float64Array(257);
+("2147483647").endsWith(-405.9902349480234);

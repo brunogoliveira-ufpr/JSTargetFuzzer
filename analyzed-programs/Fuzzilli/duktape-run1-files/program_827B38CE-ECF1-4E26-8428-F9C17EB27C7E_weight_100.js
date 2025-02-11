@@ -1,0 +1,13 @@
+new Uint8ClampedArray(255);
+const v5 = new Uint8ClampedArray(2102);
+new Float64Array(9);
+new Int8Array(Int8Array, v5, Int8Array);
+const v15 = [16,16,12,16,1024];
+[1024,v15,v15,12,v15];
+let v22 = new Int32Array(Int32Array, Int32Array, Int32Array);
+let v24 = 1073741824;
+v22++;
+Math.random();
+v24 | -1750005974;
+v24++;
+~v22;

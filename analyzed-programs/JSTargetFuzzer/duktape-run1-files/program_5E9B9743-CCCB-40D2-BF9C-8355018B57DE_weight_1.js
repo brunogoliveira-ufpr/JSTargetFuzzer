@@ -1,0 +1,11 @@
+[];
+const v3 = new Float64Array(2368);
+new Int32Array(2850);
+const v9 = new Uint32Array(257);
+const v15 = v9 ** v9;
+Math.acosh(1015193900);
+Math.atan2(v15, 2850);
+~v9;
+(v9 >> 2850) >> v15;
+Math.min(v9);
+v3.h = Float64Array;

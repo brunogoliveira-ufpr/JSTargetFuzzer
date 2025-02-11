@@ -1,0 +1,13 @@
+new Uint8Array(896);
+new BigInt64Array(512);
+new Int8Array(1024);
+/[]nxyz{0,1}?\u00603ca\D*/viysg;
+let v10 = /nd(?:a*)*/is;
+const v11 = /L?/uiy;
+[1537];
+[0];
+[-65535,40023,-9223372036854775807,1041430194,-240781154];
+v10 += v11;
+new Float32Array(10);
+new BigInt64Array(0);
+new BigInt64Array(7);

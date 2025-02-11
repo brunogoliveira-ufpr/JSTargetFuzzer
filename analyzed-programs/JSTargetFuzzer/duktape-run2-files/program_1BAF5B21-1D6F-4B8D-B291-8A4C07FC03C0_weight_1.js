@@ -1,0 +1,25 @@
+new Float32Array(218);
+new Uint8ClampedArray(2716);
+const v8 = new Int8Array(255);
+const v17 = new Uint8ClampedArray(198);
+const v20 = new Float64Array(208);
+new Int16Array(3171, 198, v17, Float64Array);
+const v33 = 1464948099 ** 208;
+const v34 = 218 * 2716;
+1464948099 | v34;
+Math.abs(v8);
+-v33;
+new Float64Array(4);
+Uint8ClampedArray & -430522928;
+const v43 = 3171 >> -44356;
+new Float32Array(Float32Array);
+new Uint8Array(v34);
+[-1000000000.0,-907088.7888462907,416.99693245704793,2.220446049250313e-16,-1e-15,-594.55290540817,752009.5505237647,9.23654653148407,973.1488182196465,-4.0];
+const v54 = [0.6450021271475713,-Infinity,2.457785734319282,5.0,0.07579924064363774,-365.12750876154246,0.4885923626731591,3.0,3.0762261215735];
+const o55 = {
+};
+new Proxy(v54, v20);
+[8.28455321080142,2.6710323089565726,609303.1900260369,-5.0];
+v54[7] >>> v43;
+const t21 = "g";
+t21.length &&= v17;

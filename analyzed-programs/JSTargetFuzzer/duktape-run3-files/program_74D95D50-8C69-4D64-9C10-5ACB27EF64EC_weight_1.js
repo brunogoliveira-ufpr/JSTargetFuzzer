@@ -1,0 +1,10 @@
+const v2 = new Float32Array(257);
+new Uint32Array(4096);
+new Int32Array(573);
+new Uint32Array(145);
+new Uint8ClampedArray(1);
+const v17 = new Int32Array(255);
+v2 & v17;
+new Uint8Array(255);
+new Uint32Array(10);
+new Uint16Array(130);

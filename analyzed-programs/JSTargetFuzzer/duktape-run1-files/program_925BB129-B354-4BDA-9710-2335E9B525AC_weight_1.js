@@ -1,0 +1,17 @@
+[9007199254740991,1781643036];
+const v1 = [129,-12,-2147483647,-50265,4096];
+[-1,-1,9007199254740992,-1407];
+new Uint8ClampedArray(1000);
+const v11 = new Float64Array(4);
+new Uint8Array(512);
+512 - 4;
+const t6 = "A6YQ";
+t6[256] = v1;
+const t9 = "growable";
+t9.b = "p";
+"growable" !== Float64Array;
+const t11 = "byteOffset";
+t11.c = 512;
+const t14 = "A6YQ";
+t14[0] = v11;
+v11.length = 97;

@@ -1,0 +1,11 @@
+new Set();
+new Array(255);
+new Set();
+Array(255);
+Array(255);
+let v19 = 32508;
+Math.sin(v19);
+Math.log2(-3n);
+--v19;
+v19 % Set;
++Set;

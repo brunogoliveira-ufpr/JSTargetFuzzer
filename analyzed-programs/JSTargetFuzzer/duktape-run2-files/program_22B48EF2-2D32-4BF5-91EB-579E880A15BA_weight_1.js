@@ -1,0 +1,14 @@
+let v2 = -1879282905;
+const v3 = [1073741824,1073741824,4];
+const v4 = [v2,v2,4,v3,v3];
+[v4];
+const v6 = /Ga(?:b)?/suy;
+/m(?:ab|cde)xyz{1,}?fqa*blxy(ab|cde)*/gmydv;
+const v8 = /[x]/mydv;
+v6.flags >>= 11;
+v2 > v8;
+var f = v4;
+v4[v3];
+let v17 = -1524800304 >>> v2;
+++v17;
+Math.log2(v2--);

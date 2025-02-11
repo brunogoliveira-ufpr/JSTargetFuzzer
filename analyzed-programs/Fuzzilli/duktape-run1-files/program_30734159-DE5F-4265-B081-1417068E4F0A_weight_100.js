@@ -1,0 +1,12 @@
+new Int16Array(4096);
+new Int32Array(3724);
+new Int16Array(12);
+new Int32Array(690);
+new Int8Array(257);
+new Uint16Array(5);
+let v22 = 0.7872588412650194;
+const v23 = ++v22;
+let v24 = -749336124 % 3724;
+const v25 = ++v24;
+Function();
+v25 / v23;

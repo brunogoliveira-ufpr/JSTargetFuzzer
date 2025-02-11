@@ -1,0 +1,14 @@
+let v2 = new Float64Array(256);
+const v5 = new Float64Array(256);
+const v8 = new Uint32Array(512);
+const v9 = [256,v8,256,v5,Float64Array];
+[Uint32Array,v8,256,256];
+[Float64Array,v9,256];
+let v12 = Infinity;
+Math.round(v12);
+const v16 = v12 / 65524;
+--v12;
++v16;
+Math.log10(65524);
+var e = v8;
+v2 /= v2;

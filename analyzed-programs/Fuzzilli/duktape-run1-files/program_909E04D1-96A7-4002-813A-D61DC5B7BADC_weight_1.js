@@ -1,0 +1,13 @@
+new Uint8ClampedArray(2377);
+const v5 = new Float32Array(0);
+const v8 = new BigUint64Array(9);
+[-12179,414039992,4294967295,2875,536870912,-1384134463];
+const v10 = [-523454396];
+const v11 = [-1077076219,129,-128,-128,1024];
+0 * v8;
+v10 >> v5;
+const v14 = new BigUint64Array(9);
+const v15 = v11[4];
+v11.length;
+v14[v14] = v10;
+v15[v5] = v15;

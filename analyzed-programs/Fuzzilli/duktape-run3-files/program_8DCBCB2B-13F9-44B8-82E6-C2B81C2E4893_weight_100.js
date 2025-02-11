@@ -1,0 +1,16 @@
+const v2 = new Float32Array(255);
+const v5 = new Uint8ClampedArray(7);
+let v8;
+try { v8 = Float64Array(1430); } catch (e) {}
+v5[7] ^= 255;
+[Infinity];
+[-1e-15,-3.0,-999449.5958222909,-61.97116025439152,1.9706550431125578,1000000000.0,70490.13122076378,-2.521511660849494e+307];
+[5.881242961490103e+307,-5.0,-458.0593463794984,-1000.0,-Infinity,1000000000.0];
+new Float64Array(255);
+const v15 = new Uint8ClampedArray(7);
+const v18 = new Uint8Array(7);
+let v21;
+try { v21 = v18.reduceRight(v8, v15); } catch (e) {}
+v21 - v2;
+new Int16Array(255);
+1237963725 && 1237963725;

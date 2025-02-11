@@ -1,0 +1,16 @@
+new Uint32Array(3717);
+new Int32Array(3073);
+const v8 = new Int32Array(6);
+const v12 = [Uint32Array];
+[Int32Array,6,3073,3717,3073];
+[v8];
+const v15 = [16,443853635,3,47817,-65536,65536,-4294967295,1052658825,-1477830014];
+const v16 = [-6,268435440,-10,710417484,9223372036854775807,-2147483648,-4294967297,-50249,33626,-9007199254740990];
+[388128452,-2147483647];
+const v20 = new Uint16Array(2);
+new Int32Array(5);
+new Uint8Array(4);
+Int32Array[(4).isConcatSpreadable] = v15;
+v15[v12] = Int32Array.unscopables;
+typeof v15 === "undefined";
+v16[v20];

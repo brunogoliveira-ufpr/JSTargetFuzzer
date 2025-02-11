@@ -1,0 +1,12 @@
+let v2 = new Array(3148);
+new Uint8Array(128);
+const v8 = new Uint8ClampedArray(13);
+new Int16Array(16);
+128 - v8;
+Object.defineProperty(v2, 16, { enumerable: true, set: Array });
+const v22 = ~-8;
+const v23 = +v2;
+++v2;
+Math.imul(v23, v22);
+-8 | v22;
+Math.pow(-8, v2);

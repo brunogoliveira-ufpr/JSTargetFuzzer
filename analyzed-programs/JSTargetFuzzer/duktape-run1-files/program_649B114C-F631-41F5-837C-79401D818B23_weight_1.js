@@ -1,0 +1,10 @@
+let v0 = [];
+const v3 = new BigInt64Array(5);
+let v6 = new Float32Array(2);
+new Uint16Array(256);
+v3[-1] = v3;
+let v11 = 2147483649;
+Math.hypot(!v11);
+v11--;
+({"h":v6,"length":v0,} = v0);
+v3["reduce"](BigInt64Array, ..."reduce", v6, BigInt64Array, v11);

@@ -1,0 +1,15 @@
+[-141155.02751697064,-519169.3631614369,-3.0,-248297.53332142078];
+[3.0];
+const v2 = [0.4461124588902675,-8.96598555703209e+307,0.7457459816806583];
+const v5 = new Array(208);
+new Int8Array(127);
+new Uint32Array(4096);
+new BigUint64Array(13);
+Int8Array === 4096;
+const v19 = v2 >>> "7";
+Object.defineProperty("-4294967297", 4, { writable: true, configurable: true, get: Array });
+Array(v19);
+v5 / "-4294967297";
+-30652.393104116665 | -30652.393104116665;
+Math.tanh(53280);
+"-4294967297" % v5;

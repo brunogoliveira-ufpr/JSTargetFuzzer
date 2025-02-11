@@ -1,0 +1,16 @@
+/1xyz{0,1}?/mvsg;
+const v1 = /(o9)/mviyg;
+/WXl/vyg;
+new Int8Array(127);
+const v8 = new Float32Array(833);
+const v11 = new BigInt64Array(64);
+v8[1853] = v11;
+v1["exec"]("exec");
+new WeakSet();
+let v17 = 6;
+let v19 = v1 + Int8Array;
+v1 >> WeakSet;
+Math.tan(v17);
+const v23 = v1 * ++v19;
+++v17;
+v23 >>> v19;

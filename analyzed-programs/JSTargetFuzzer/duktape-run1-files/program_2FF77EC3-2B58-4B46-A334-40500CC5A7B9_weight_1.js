@@ -1,0 +1,14 @@
+const v2 = new Int32Array(3);
+new Int16Array(904);
+const v8 = new Int32Array(3362);
+const v9 = [268435440,-1,37266];
+const v10 = [64987,7,-1078191253,-49470,1];
+const v11 = [2031560712,-1829785003,1073741825,-2];
+const v16 = [904];
+const v17 = v11.splice;
+Reflect.apply(v17, v8, v16);
+let [] = v9;
+v11.valueOf = v17;
+var b = Int32Array;
+[...v9,v2,...v9];
+v10[224];

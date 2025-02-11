@@ -1,0 +1,13 @@
+let v6 = 14;
+let v11 = 10;
+v6 / -15293;
+++v11;
+Math.cbrt(++v6);
+v6 && -15293;
+const v20 = !v6;
+Math.hypot(4294967296);
+let v22 = 4294967296 | v20;
++v20;
+Math.imul(v22, v20);
+Math.trunc(v22);
+v22--;

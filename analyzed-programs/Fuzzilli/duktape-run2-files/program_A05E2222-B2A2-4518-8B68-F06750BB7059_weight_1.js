@@ -1,0 +1,10 @@
+new Float32Array(3);
+new Int16Array(1192);
+new Int8Array(7);
+new Int32Array(257);
+new Float32Array(4096);
+new Float32Array(127);
+const v20 = new Int8Array(16);
+new Float64Array(1000);
+new Uint32Array(1609);
+delete v20[536870888];

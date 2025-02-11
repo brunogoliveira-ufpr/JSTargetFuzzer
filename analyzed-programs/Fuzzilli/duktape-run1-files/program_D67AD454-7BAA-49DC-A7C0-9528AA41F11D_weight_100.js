@@ -1,0 +1,19 @@
+const v3 = [-268435456,-9007199254740991,5];
+const v4 = [-913890074,-12,1000,30265,-5,536870889,536870888,-256,14394];
+const v5 = [7056,-65535,1000,-46924,30244,-4294967295,-2147483648,28383,-27570];
+function F9(a11, a12, a13, a14) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.h = -447983063;
+    this.f = 1073741824;
+}
+new F9(1073741824, v3, v5, 1000);
+const v16 = new F9(10000, v4, v3, 1073741824);
+new F9(-2038140665, v3, v3, v16);
+function f24() {
+    return f24;
+}
+function f25() {
+    return f24;
+}
+new Uint8ClampedArray(f24);
+f25();

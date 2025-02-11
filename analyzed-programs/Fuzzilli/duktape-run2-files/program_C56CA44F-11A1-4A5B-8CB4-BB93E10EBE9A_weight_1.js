@@ -1,0 +1,13 @@
+[];
+const v3 = new Uint8Array(2);
+const v6 = new Uint8Array(4048);
+new Uint8Array(220);
+[220,Uint8Array];
+[220,[2,v3,v3,2],4048,4048,v3];
+let v15 = -1903893149;
+const v16 = v15++;
+Math.min(220);
+const v18 = v15 - v15;
+Math.log(220);
+220 * v18;
+v6[65536] = v16 >> 220;

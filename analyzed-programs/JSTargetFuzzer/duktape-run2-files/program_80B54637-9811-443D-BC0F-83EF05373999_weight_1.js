@@ -1,0 +1,10 @@
+new Uint16Array(9);
+new Int16Array(257);
+new Int32Array(16);
+new Int32Array(2147483649, 9, 16);
+const v19 = Math.cbrt(-1024);
+!-1024;
+-9007199254740990 ^ 2147483649;
+-9007199254740990 >> 2147483649;
+-15 & v19;
+typeof 257 === "bigint";

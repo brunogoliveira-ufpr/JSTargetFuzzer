@@ -1,0 +1,53 @@
+new Int8Array(256);
+new Int8Array(10);
+function F7() {
+    if (!new.target) { throw 'must be called with new'; }
+}
+const v9 = new F7();
+const v10 = new F7();
+new F7();
+const v14 = new Int16Array(257);
+v14[6];
+v9[Array(232)] = v10;
+new Int16Array(9);
+function F23(a25) {
+    if (!new.target) { throw 'must be called with new'; }
+}
+new F23(12);
+new Int32Array(undefined);
+function f30() {
+    return 256;
+}
+const v33 = [536870912];
+[v33,v33];
+const t21 = "isConcatSpreadable";
+t21["K"] %= -4294967296;
+[30240,30240,30240,3];
+[30240,Int8Array];
+"function" === "function";
+let v46 = 10;
+for (; v46--;) {
+    [1073741824,12,-16,-16,0] % 3339;
+}
+[,];
+new Date();
+[80921.50452199462,-8.356087310331528,-52284.84910874348,5.0,1e-15,4.0,-1000000000000.0];
+[1.7976931348623157e+308,0.402342188980098,5.0,3.0,-6.500567947636666,523949.2041430522,-1.561118227085225e+308,2.0,-Infinity];
+[1.0,0.1493821243088752,-3.864406571010406,6.845894778924372];
+Array(1);
+([1073741824,0,-860608911,3,39987,10,4,-2])[Infinity];
+function f66() {
+    return f66;
+}
+const v73 = [-20945,-1024,11,5,4294967297,65536];
+[-9223372036854775807,-6233,-2098392681];
+[2,-7,12,-221294060,4294967296,9007199254740991];
+([-20945,-1024,11,5,4294967297,65536]).indexOf;
+const v79 = 23381 ^ Int16Array;
+[v79,v79,v79,v79];
+[-872192226];
+const v86 = v73.indexOf;
+v86.apply(v86, v73, Reflect);
+const o91 = {
+};
+new Proxy(Reflect, o91);

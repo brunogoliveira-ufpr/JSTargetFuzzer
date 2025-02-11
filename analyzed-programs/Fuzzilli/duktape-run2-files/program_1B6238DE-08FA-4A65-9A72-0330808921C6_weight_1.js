@@ -1,0 +1,11 @@
+const v6 = new Uint8Array(16);
+new Int32Array(3);
+new BigUint64Array(780);
+let v15 = -9007199254740992;
+let v16 = -2.2250738585072014e-308;
+Math.min(v16);
+const v18 = v16--;
+--v15;
+780 / v18;
+Math.cos(v16);
+v6.buffer;

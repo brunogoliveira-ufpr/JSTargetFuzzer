@@ -1,0 +1,13 @@
+let v9 = -5.0;
+const v11 = [4294967295];
+const v12 = ("symbol").slice;
+Reflect.apply(v12, "3HPe", v11);
+let v15 = -47943 >>> true;
+const t5 = "3HPe";
+t5.length = v12;
+const t7 = "symbol";
+t7[2147483648] = "3HPe";
+let v18 = 1.4433737436927381e+308;
+Math.abs(v15++);
+v9++ ^ v9;
+Math.min(v18--);

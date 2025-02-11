@@ -1,0 +1,16 @@
+let v1 = 29161n;
+let v2 = 65536n;
+let v3 = "symbol";
+let v5 = "m";
+let v8 = new BigUint64Array(1592);
+let v10 = Int32Array;
+const v11 = new v10(512);
+const v14 = new Float32Array(512);
+--v3;
+v14[3];
+1592 - (BigUint64Array === v3 ? BigUint64Array : v3);
+--v5;
+let v21 = "toPrimitive" == v11;
+({"buffer":v2,"byteLength":v21,"byteOffset":v8,...v21} = v14);
+v14[5];
+({"byteOffset":v10,"h":v1,"length":v21,} = v14);

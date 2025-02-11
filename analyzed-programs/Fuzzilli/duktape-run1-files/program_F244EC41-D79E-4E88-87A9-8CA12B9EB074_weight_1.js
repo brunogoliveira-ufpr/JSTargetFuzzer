@@ -1,0 +1,12 @@
+const v2 = new BigInt64Array(9);
+const v5 = new Float32Array(127);
+let v8 = new Uint16Array(512);
+const v14 = new Float64Array(9);
+new BigInt64Array(822);
+const v20 = new Uint16Array(1195);
+v8 = v20;
+Object.defineProperty(v2, 1195, { writable: true, enumerable: true, value: v5 });
+v14.__proto__;
+new Uint16Array(1827);
+new Uint16Array(16);
+new Uint32Array(1000);

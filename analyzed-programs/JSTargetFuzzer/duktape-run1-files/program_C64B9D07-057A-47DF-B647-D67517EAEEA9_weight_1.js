@@ -1,0 +1,11 @@
+new BigUint64Array(4);
+new Uint8Array(1798);
+const v12 = new BigInt64Array(225);
+let v15 = -1;
+v15--;
+const v17 = ~6;
+6 ^ 6;
+v15--;
+const v20 = Math.abs(v17);
+~v17;
+delete v12[v20];

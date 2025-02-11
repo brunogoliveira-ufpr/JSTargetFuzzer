@@ -1,0 +1,26 @@
+const v8 = new Uint8ClampedArray(11);
+const o9 = {
+};
+new Proxy(v8, o9);
+const v15 = Proxy - v8;
+const v16 = -9223372036854775807 || v8;
+Math.log(v8);
+v16 & -9223372036854775807;
+!v16;
+v15 << v8;
+new Float64Array(89);
+new Uint16Array(628);
+new Uint8Array(52);
+new Int32Array(1000);
+new Float32Array(9);
+const v35 = [16,443853635,3,47817,-65536,65536,-4294967295,1052658825,-1477830014];
+const v36 = [-6,268435440,-10,710417484,9223372036854775807,-2147483648,-4294967297,-50249,33626,-9007199254740990];
+const v37 = [388128452,-2147483647];
+const v40 = new Uint16Array(2);
+new Int32Array(5);
+new Uint8Array(4);
+v37[Symbol.isConcatSpreadable] = v35;
+const v50 = Symbol.unscopables;
+v35[v50] = v50;
+typeof v35 === "undefined";
+v36[v40];

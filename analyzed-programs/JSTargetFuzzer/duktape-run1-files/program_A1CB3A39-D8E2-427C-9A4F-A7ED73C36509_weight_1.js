@@ -1,0 +1,14 @@
+let v0 = 0.14886659320276796;
+const v3 = [-5.0,2.0,2.0];
+const v4 = [-5.0];
+const v5 = [v0,v4];
+const v6 = [v4,-5.0,v5];
+const v8 = [v6,[v6,v5,-5.0,v4]];
+Object.defineProperty(v6, 3, { writable: true, configurable: true, enumerable: true, value: 3.0 });
+v0 = -5.0;
+const v15 = v3.__proto__;
+var f = v15;
+const t10 = "o";
+t10.a = "-55971";
+v8.toString = v15;
+"o" | v5;

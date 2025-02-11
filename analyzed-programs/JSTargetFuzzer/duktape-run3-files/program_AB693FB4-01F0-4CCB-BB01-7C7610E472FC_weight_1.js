@@ -1,0 +1,12 @@
+let v0 = 16n;
+let v5 = new BigUint64Array(1683);
+const v8 = new Uint16Array(3776);
+new Uint8Array(5);
+v5[2334];
+const v16 = v8.__proto__;
+const v20 = v16 && v16;
+268435441 >>> v20;
+Math.asinh(v20);
+Math.log1p(v5);
+--v5;
+v0++;

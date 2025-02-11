@@ -1,0 +1,15 @@
+/(?<a>)zE(\xed\xb0\x80)\x01VT\p{General_Category=Decimal_Number}?/vs;
+/a\fb\nc\rd\te\vf/divg;
+/V\ud808\udf45*/dyiv;
+let v3 = 268435441n;
+let v6 = 520955243;
+-Infinity * 1n;
+v6--;
+let v17 = Float32Array;
+const v21 = -v3;
+!v3;
+v21 << v17;
+Math.log1p(-268435456n);
+v3++;
+v3 % -268435456n;
+++v17;

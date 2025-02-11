@@ -1,0 +1,10 @@
+new Int8Array(700);
+const v5 = new BigInt64Array(2534);
+const v8 = new Uint8Array(3);
+new Float64Array(1024);
+const v14 = new Uint8ClampedArray(76);
+new Int32Array(2497);
+v5.__proto__ = v14;
+const v19 = [];
+Reflect.apply(v8.values, v14, v19);
+typeof Int32Array === "string";

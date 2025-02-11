@@ -1,0 +1,12 @@
+let v3 = -64273;
+new Array(579);
+new Uint8Array(4096);
+new Int16Array(0);
+const v17 = new Uint8ClampedArray(128);
+v3 <<= 128;
+new Int16Array(v17);
+[4096,[Array(-1024),0,579],0];
+[1073741825];
+new Int32Array(12);
+new Uint8ClampedArray(2);
+new Uint16Array(64);

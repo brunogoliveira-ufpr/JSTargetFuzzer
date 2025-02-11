@@ -1,0 +1,36 @@
+const v0 = [];
+const v1 = [1000000.0];
+const v2 = [4.0,-Infinity,261.62138542529397,7.370257255736568,-610091.677711615,-4.264518812961329];
+const v3 = [-1.7976931348623157e+308];
+const v4 = [v3,v3,v0,v3];
+const v6 = [v4,v3,[v2,v0,v1,v4,v1]];
+let v8 = 12039;
+new Int8Array(16);
+new Float64Array(0);
+new Float32Array(127);
+const v21 = new Uint16Array(512);
+const v24 = new Uint32Array(8);
+new Int16Array(4096);
+if (8) {
+    v24.byteLength += 512;
+} else {
+    0 >> Int16Array;
+}
+([]).length;
+new Float64Array(7);
+const v38 = new Int32Array();
+for (const v39 in v38) {
+}
+[-1024,-4096,8,-5,-661,-2,128,1569217128,53988];
+const v43 = [2147483649,264886449,4294967297,-2147483647,7,1334909290,-12,1073741824,-128,9007199254740992];
+[-4294967296,-1,-6,16,1462841887,-8,-65535,0];
+[65537,"-1024","string",65537,-1847454753];
+let v53 = [];
+function f54(a55, a56) {
+    a55.toString = v6;
+    ++v53;
+    +4096;
+    (1.7976931348623157e+308 >>> v43) & ++v8;
+    return "function";
+}
+f54(v21);

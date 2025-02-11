@@ -1,0 +1,12 @@
+let v3 = 2142;
+const v5 = new BigInt64Array(v3);
+new Uint32Array(10);
+new Int8Array(2);
+1326641333 | v5;
+v3++;
+new Array(3);
+new Array(3);
+let v24 = NaN;
+-24424;
+v24--;
+Math.log10(0);

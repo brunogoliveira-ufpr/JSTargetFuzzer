@@ -1,0 +1,30 @@
+[636.3134275939267,9.085390639436161e+307,-923511.2298196726];
+[5.0];
+const v5 = [1.6815158515908131e+308,-1.2659036955467237e+308,2.2250738585072014e-308,1000.0,2.0,2.2250738585072014e-308,1000000000.0,276516.7237704876,-24.28741822066786];
+new Int8Array(19);
+new Uint8ClampedArray(19);
+new Int16Array(1);
+const v18 = [-409.6596385122307];
+const v19 = [2.0,-116.77494940045176];
+const v20 = [880570.41456816,3.0,1.6711390122646802e+308,-0.0,-2.220446049250313e-16,2.2250738585072014e-308];
+function F24(a26, a27, a28, a29) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = a28;
+}
+const v30 = new F24(v5, v19, 48247, v19, -1329257878);
+new F24(48247, v20, -1329257878, v20, F24);
+new F24(v18, -1329257878, 1024, v19);
+function f36() {
+    function f38() {
+        return Int16Array;
+    }
+    return arguments;
+}
+function F39() {
+    if (!new.target) { throw 'must be called with new'; }
+}
+try { F39(); } catch (e) {}
+const v42 = f36(f36, F24, v30, v18, 1024);
+function f43() {
+    return v42;
+}

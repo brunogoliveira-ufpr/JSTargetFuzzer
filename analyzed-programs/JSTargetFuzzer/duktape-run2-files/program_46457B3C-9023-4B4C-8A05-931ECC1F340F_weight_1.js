@@ -1,0 +1,12 @@
+new Date();
+const v14 = [16,443853635,3,47817,-65536,65536,-4294967295,1052658825,-1477830014];
+const v15 = [-6,268435440,-10,710417484,9223372036854775807,-2147483648,-4294967297,-50249,33626,-9007199254740990];
+const v16 = [388128452,-2147483647];
+const v19 = new Uint16Array(2);
+new Int32Array(5);
+new Uint8Array(4);
+v16[Symbol.isConcatSpreadable] = v14;
+const v29 = Symbol.unscopables;
+v14[v29] = v29;
+typeof v14 === "undefined";
+v15[v19];

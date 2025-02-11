@@ -1,0 +1,13 @@
+new Float64Array(64);
+const v5 = new BigUint64Array(3);
+new BigUint64Array(2);
+new BigInt64Array(256);
+new BigInt64Array(256);
+new Uint16Array(9);
+let [] = v5;
+Math.log10(5);
+~256;
+Math.sin(5);
+~(5 >> undefined);
+-256;
+Math.round(undefined);

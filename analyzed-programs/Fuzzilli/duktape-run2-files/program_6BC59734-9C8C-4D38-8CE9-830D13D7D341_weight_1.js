@@ -1,0 +1,10 @@
+new Uint8Array(0);
+new BigUint64Array(4);
+new Uint16Array(129);
+/(asoT+)/gmiy;
+/T6/gmdu;
+/[\cZ]/gsmi;
+new Int32Array(15);
+new Int32Array(1);
+const v23 = new BigInt64Array(257);
+v23 * -4096;

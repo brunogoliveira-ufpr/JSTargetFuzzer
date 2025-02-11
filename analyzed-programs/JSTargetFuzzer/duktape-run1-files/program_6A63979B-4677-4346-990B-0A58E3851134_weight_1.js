@@ -1,0 +1,10 @@
+const v3 = [1073741823,536870887,1024,9,1,2028036551,1312017964,15,63966];
+const v4 = [-1932438936,4932,65537,-6,5,268435441];
+const v5 = [-1911472483,-9007199254740991,-6,9];
+[[["c","symbol",v4],"c",v5],"c",v3];
+new Uint8ClampedArray(5);
+new Float64Array(1178);
+new BigInt64Array(2530);
+new Uint32Array(16);
+new Int16Array(1561);
+new Int32Array(1000);

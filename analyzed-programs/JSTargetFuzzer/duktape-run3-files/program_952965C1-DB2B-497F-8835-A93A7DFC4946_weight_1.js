@@ -1,0 +1,11 @@
+const v5 = new Int8Array(6);
+new Float32Array(189);
+new Uint32Array(55);
+let {"byteOffset":v12,...v13} = v5;
+delete v13[189];
+[4,-1225114419,-3,10];
+[46936];
+[-28604,268435439,2,1024,23533,-32224,550656669,60329,9,-2];
+new Uint8ClampedArray(1243);
+new Uint8Array(255);
+new Uint16Array(129);

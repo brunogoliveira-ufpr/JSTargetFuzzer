@@ -1,0 +1,13 @@
+const t0 = "clz32";
+t0.d = -65536n;
+("next").length;
+const t2 = "next";
+delete t2?.length;
+let v20 = -1.5618047723650555e+308;
+Math.fround(64);
+const v22 = v20 - 64;
+const v23 = 9007199254740991 & v20;
+++v20;
+Math.floor(64);
+Math.cos(9007199254740991);
+v23 ** v22;

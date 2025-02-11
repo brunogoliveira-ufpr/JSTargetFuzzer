@@ -1,0 +1,16 @@
+const v2 = new Array(10);
+const v4 = new Date();
+[4294967296,-536870912,257,1,1036709833,846468735,6,-11,-2,330528030];
+const v6 = [-15,0];
+const v7 = [692452107];
+let v15 = 26163177;
+let v17 = v2 || 6;
+const v18 = v7.length;
+const v19 = Date(2147483648);
+Object.defineProperty(v2, "length", { enumerable: true, get: Array });
+Object.defineProperty(v4, v2, { configurable: true, get: Date, set: Array });
+[] = v6;
+v19.b >>= v18;
+Array(6);
+v15 = 6;
+v17--;

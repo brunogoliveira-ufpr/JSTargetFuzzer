@@ -1,0 +1,86 @@
+[-1000000000000.0,-123.70949629743211,-1000000000.0,0.035989997451952416,-1000000000000.0,-2.2250738585072014e-308,-1.1259992545237019,-1.7976931348623157e+308,3.633599422920753,0.7071112981324492];
+[0.9829822962558987,0.0,1e-15,-617418.5887572223,726056.4975162721,1000.0,-146.41406786331834,-966233.5129422863];
+[-4.3383578832735665,-2.7652240000291095e+307,1000000.0,1000000000.0,-179273.39289869228,-5.0];
+[536870912,4294967296,536870889,10000,-64309,-12880,65536];
+[1880324105,65536,1073741824,7,15037,268435440,-53538];
+[-3012,16,19638,-1855268091];
+const v8 = new Uint8Array(2719);
+new Uint32Array(1);
+new Int32Array(10);
+function f18() {
+    return -8.211407984145609;
+}
+function F19(a21) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.h = a21;
+    this.d = a21;
+    const o22 = {
+        [this]: this,
+        [-8.211407984145609]: F19,
+    };
+    return o22;
+    this.f = a21;
+}
+new F19(-8.211407984145609);
+new F19(3.2019173060561776);
+function F25() {
+    if (!new.target) { throw 'must be called with new'; }
+}
+new Uint8ClampedArray(3313);
+new F19(3.2019173060561776);
+new EvalError(2996, EvalError, v8);
+new Int8Array(2);
+new Uint8Array(2323);
+const v43 = new Int32Array(16);
+function F45() {
+    if (!new.target) { throw 'must be called with new'; }
+}
+const o47 = {
+};
+o47 !== F45;
+const v50 = new Int8Array(Int8Array);
+let v52 = 0;
+v52++;
+let v54 = 0;
+++v54;
+let v56 = 0;
+v56--;
+new Float64Array(Int32Array);
+new Uint16Array(v50);
+132.84333894457086 << (-2147483647 % 132.84333894457086);
+let v70 = 0;
+v70++ + -4294967296;
+new Uint16Array(v43);
+-2147483647 % 132.84333894457086;
+const v77 = [19275,-14,512,-9,-8,-16246737,2405];
+function F79(a81, a82) {
+    if (!new.target) { throw 'must be called with new'; }
+    a81 >= a82;
+    a82++;
+    "aM" | v77;
+}
+new Int32Array(Int32Array);
+"number" < "number";
+let v93 = 5.163861339684848;
+function F94(a96, a97) {
+    if (!new.target) { throw 'must be called with new'; }
+    v93++;
+}
+let v99 = 0;
+v99--;
+const t69 = "number";
+t69[350729292] >>= 1763;
+const v104 = new String(128);
+let v105 = 0;
+while (v105 < 7) {
+    v104[90] = 4096;
+    v105++;
+    const o113 = {
+        toString(a110) {
+            const t79 = this.g;
+            let v112 = t79();
+            v112 %= v112;
+            return this;
+        },
+    };
+}

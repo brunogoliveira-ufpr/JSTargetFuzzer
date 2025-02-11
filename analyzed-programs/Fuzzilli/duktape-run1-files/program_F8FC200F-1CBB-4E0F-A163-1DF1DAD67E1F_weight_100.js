@@ -1,0 +1,10 @@
+new Array(127);
+new Uint16Array(9);
+new Uint32Array(1111);
+new Uint16Array(2755);
+const v14 = new Float64Array(931);
+new Uint32Array(v14);
+new Float64Array(64);
+let v21 = -15068;
+7 < 7;
+v21--;

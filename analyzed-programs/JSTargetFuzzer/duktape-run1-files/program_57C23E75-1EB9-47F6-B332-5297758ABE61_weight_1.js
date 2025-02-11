@@ -1,0 +1,15 @@
+const v0 = [-1167396125,6,-2058311453,1000,65537,0,-26318,1361421916];
+let v1 = [-48885,-4294967295,-4294967296,-1,4294967297,-1151908557];
+[-128,64,-10,46388];
+[1000000000.0,1.7976931348623157e+308,-614897.0170867145];
+[1.0,425.62904129087883];
+const v5 = [-1000000000.0];
+new Float32Array(2481);
+const v11 = new Uint8Array(0);
+new BigUint64Array(129);
+v11[Uint8Array] = BigUint64Array;
+v1 = v5;
+v11["subarray"](0, ...v5, v0, ...v5, ..."subarray", ..."subarray");
+new Uint8ClampedArray(128);
+new BigInt64Array(128);
+new Uint16Array(1000);

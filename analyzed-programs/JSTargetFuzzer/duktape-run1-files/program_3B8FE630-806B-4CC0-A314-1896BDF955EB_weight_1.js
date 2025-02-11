@@ -1,0 +1,12 @@
+const v5 = new BigInt64Array(127);
+const v8 = new Int8Array(1);
+const v11 = new BigInt64Array(9);
+const v12 = [9,v8,v11,8,v8];
+const v13 = [127,1,v12,-16];
+([v5])[106];
+v12.length;
+v11[-2000892330].__proto__;
+v13 / v13;
+Math.atanh(1);
+-36046 % 1;
++4.0;

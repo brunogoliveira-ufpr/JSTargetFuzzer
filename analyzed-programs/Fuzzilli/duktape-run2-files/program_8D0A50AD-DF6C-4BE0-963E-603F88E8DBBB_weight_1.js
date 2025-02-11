@@ -1,0 +1,11 @@
+const v2 = new Int32Array(4053);
+let v4 = Int8Array;
+new v4(110);
+new Float64Array(2);
+Math.acosh(0);
+const v16 = ++v4;
+v16 && v16;
++-46652;
+const v19 = Math.max(String);
+Float64Array ^ v2;
+v19.toString = String;

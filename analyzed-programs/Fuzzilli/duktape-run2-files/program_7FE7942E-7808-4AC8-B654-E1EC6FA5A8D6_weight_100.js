@@ -1,0 +1,11 @@
+const v7 = ["n"];
+Reflect.apply(("boolean").charCodeAt, "symbol", v7);
+Reflect > "number";
+["boolean","undefined","symbol","symbol"];
+["boolean"];
+["pop","pop"];
+let v19 = 65536;
+const v21 = v19++;
+Math.acos();
+v19 * 1000;
+-819913.7229694651 >> v21;

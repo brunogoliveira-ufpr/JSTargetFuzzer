@@ -1,0 +1,12 @@
+new Uint32Array(2715);
+new Int32Array(418);
+new Int32Array(206);
+[209612.93116863957];
+[606636.3679898037,-1e-15,-1000000000.0,2.2250738585072014e-308,NaN,0.11770471194020382];
+[[0.5574314738951496]];
+new Uint32Array(763);
+new Uint16Array(3227);
+const v22 = new Int8Array(9);
+let v23 = 8;
+Object.defineProperty(v22, "g", { enumerable: true, get: Duktape.compact });
+v23 ^= 2248;

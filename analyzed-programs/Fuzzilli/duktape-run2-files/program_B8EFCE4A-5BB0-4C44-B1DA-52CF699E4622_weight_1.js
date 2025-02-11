@@ -1,0 +1,11 @@
+const v0 = [];
+new Int32Array(5);
+new BigUint64Array(2946);
+new Float32Array(207);
+let v12 = 4294967296;
+9007199254740992 + -6.666134476278815;
+const v15 = ++v12;
+const v16 = v0 || v12;
+const v17 = v15 ^ v0;
+Math.max(v12 ^ 9007199254740992);
+v17 & v16;

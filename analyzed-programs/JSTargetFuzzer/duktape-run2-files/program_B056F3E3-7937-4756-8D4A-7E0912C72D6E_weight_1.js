@@ -1,0 +1,12 @@
+new Array(1024);
+new Uint16Array(64);
+new BigUint64Array(9);
+new Int32Array(156);
+Array(165860233);
+const v20 = 756510596 & 0;
+Math.min(Array);
+let v22 = ~64;
+Array + v20;
+v20 - -2.0;
+--v22;
+Math.sqrt(756510596);

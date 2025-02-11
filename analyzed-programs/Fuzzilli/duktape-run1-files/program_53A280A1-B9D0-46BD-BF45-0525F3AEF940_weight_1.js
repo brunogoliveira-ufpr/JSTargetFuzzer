@@ -1,0 +1,11 @@
+const v2 = new Uint8ClampedArray(0);
+new Uint32Array(130);
+new Uint8ClampedArray(9);
+new Uint8Array(4);
+const v17 = new BigInt64Array(49);
+const v20 = new Uint16Array(16);
+const v21 = [9,0,Uint32Array];
+const t7 = [[v21,v2,0,v21,Uint8ClampedArray],4];
+t7.length = 1;
+v20[128];
+v17.length;

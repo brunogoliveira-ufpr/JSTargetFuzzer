@@ -1,0 +1,16 @@
+new Int8Array(5);
+new Uint32Array(1);
+new Float64Array(257);
+let v9 = Map;
+new v9();
+new Float64Array(2286);
+new BigInt64Array(208);
+const v19 = new Int8Array(128);
+v9 += v9;
+const v27 = ~-2.0;
+const v28 = -536870889;
+Math.cosh(v27);
+Math.sqrt(536870889);
+v28 % v27;
+-v19;
+Math.acos(536870889);

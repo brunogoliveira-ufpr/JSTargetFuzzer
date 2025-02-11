@@ -1,0 +1,13 @@
+const v8 = new Int32Array(1404);
+new Int8Array(129);
+new Float32Array(8);
+let v16 = -1943416451;
+Math.acosh(1404);
+Math.tan(1404);
+v16--;
+v16--;
+v16++;
+v8[129];
+Math.exp(7);
++7;
+Math.ceil(7);

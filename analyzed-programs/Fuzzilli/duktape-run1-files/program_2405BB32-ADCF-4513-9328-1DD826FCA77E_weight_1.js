@@ -1,0 +1,16 @@
+new Uint8ClampedArray(3532);
+const v8 = new Uint8ClampedArray(1251);
+const v11 = new Float32Array(4096);
+const v13 = ["object",Uint8ClampedArray,1251,[v11,Float32Array]];
+[v13,Uint8ClampedArray];
+const v15 = "object";
+v8.slice(...v13, 1251, ..."object", Float32Array, ..."-38790");
+let v19 = -13;
+let v20 = -1000.0;
+const v21 = +"transfer";
+const v22 = ++v20;
+"transfer" || "transfer";
+v21 >> Uint8ClampedArray;
+Math.sqrt(v22);
+Uint8ClampedArray << v21;
+--v19;

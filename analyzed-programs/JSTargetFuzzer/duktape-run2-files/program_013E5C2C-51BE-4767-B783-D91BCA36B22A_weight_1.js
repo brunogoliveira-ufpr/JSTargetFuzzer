@@ -1,0 +1,53 @@
+const v3 = [-9223372036854775808,-41090,10000,-2061553311,2147483647,-4096,-1899948740,4294967296,-11];
+[2302,10,-9007199254740991,-407753157,13,2147483649,49621,9223372036854775807];
+const v5 = [268435441,41528,-5618,44087,-2];
+new Int32Array(8);
+new Int32Array(1695);
+new Uint8ClampedArray(7);
+new Int8Array(13);
+new Int32Array(1022);
+new Float64Array(v3);
+for (const v31 in v5) {
+    const v34 = ("bigint")["p"];
+    function f35() {
+        const o36 = {
+        };
+        return o36;
+    }
+    const t16 = f35();
+    t16["p" + v34] = v34;
+}
+new Float32Array(151);
+new Float32Array(1000);
+const v49 = new Int32Array(16);
+const v52 = new Int16Array(3144);
+const v56 = 3144 >> v52;
+let v57;
+try { v57 = Int16Array(v56, 1000, 3144); } catch (e) {}
+v49.byteOffset;
+switch (0.01413596778607562) {
+    case -1.7976931348623157e+308:
+        try { v57(); } catch (e) {}
+        break;
+    default:
+        v52.byteOffset;
+        break;
+}
+new Int32Array(16);
+const v64 = new Int16Array(3144);
+const v68 = 3144 >> v64;
+try { Int16Array(v68, 1000, 3144); } catch (e) {}
+const v70 = Uint8ClampedArray.byteOffset;
+switch (0.01413596778607562) {
+    case -1.6775380604269171e+308:
+        break;
+    case Int16Array:
+        try { Int32Array(); } catch (e) {}
+        break;
+    case 8:
+        try { v70(); } catch (e) {}
+        break;
+    default:
+        v64.byteOffset;
+        break;
+}

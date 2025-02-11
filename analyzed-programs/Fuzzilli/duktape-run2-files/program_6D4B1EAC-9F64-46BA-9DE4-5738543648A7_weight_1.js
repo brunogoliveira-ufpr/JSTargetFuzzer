@@ -1,0 +1,11 @@
+new BigInt64Array(127);
+new Float64Array(257);
+new Uint8ClampedArray(1);
+let v13 = -128;
+let v14 = 1476860956;
+Math.random();
+++v13 * Float64Array;
+!(--v14);
+new Int8Array(5);
+new Int16Array(4096);
+new BigUint64Array(2);

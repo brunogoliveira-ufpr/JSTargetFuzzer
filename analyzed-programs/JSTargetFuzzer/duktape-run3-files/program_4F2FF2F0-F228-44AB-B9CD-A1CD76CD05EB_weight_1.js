@@ -1,0 +1,12 @@
+const v2 = new BigInt64Array(180);
+const v5 = new Uint8ClampedArray(4096);
+const v8 = new Float32Array(71);
+[4096,v8,[Uint8ClampedArray,v2,71,BigInt64Array],v2];
+[BigInt64Array,180,BigInt64Array,v2];
+[4,-33460,1395063431,54533,256,-31788,2147483647,-5,4294967297];
+[-1013700753,65536,8,2147483649];
+[7];
+v5[8];
+new Int8Array(4);
+new Float64Array(2694);
+new Uint16Array(4);

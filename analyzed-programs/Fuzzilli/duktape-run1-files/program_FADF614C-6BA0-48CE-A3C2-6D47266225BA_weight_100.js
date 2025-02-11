@@ -1,0 +1,14 @@
+new Float32Array(128);
+new Int8Array();
+"symbol" + Array(257);
+const v12 = new Int32Array(8);
+new Int8Array(6);
+const v19 = new Uint8Array();
+v19.buffer = -44531;
+"number" === "number";
+7 < 7;
+v12 >= 8;
+-2147483647 % 132.84333894457086;
+const v34 = new ArrayBuffer(ArrayBuffer, ArrayBuffer);
+new Float64Array(v34);
+[0.6664693606087961,3.0,5.0,-Infinity,-1.0301071771461991,-8.309821057575142];

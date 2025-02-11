@@ -1,0 +1,14 @@
+[1.0];
+[-3.9912486457128633];
+let v2 = [-983548.6008143967,-1000000000000.0,1.7976931348623157e+308,0.7414379352422018,1.3219817551613118e+308,4.322247030507499e+307,NaN];
+new Float64Array(1000);
+let v7 = Uint8Array;
+const v8 = new v7(9);
+const v11 = new Int16Array(1435);
+let v12 = true;
+[v8,[v7,Int16Array,[v11,9],Float64Array]];
+v2.length <<= 1435;
+({"buffer":v12,"byteLength":v7,"g":v2,} = v11);
+new BigInt64Array(64);
+new Uint8Array(2013);
+new Uint16Array(1000);

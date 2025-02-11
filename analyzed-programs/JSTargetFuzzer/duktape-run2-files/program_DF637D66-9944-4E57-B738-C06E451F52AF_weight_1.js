@@ -1,0 +1,13 @@
+const v8 = new BigInt64Array(4096);
+const v11 = new Int8Array(709);
+const v14 = new Int32Array(255);
+new BigInt64Array(...v14, 4096, Int8Array, -2n, ...v14, -9007199254740992n);
+const v17 = Symbol.match;
+v8[v17];
+v11.__proto__ = v17;
+v11.buffer;
+let v22 = ~-13;
+const v23 = v8 && v22;
+v23 << -13;
+v23 || v23;
+v22--;

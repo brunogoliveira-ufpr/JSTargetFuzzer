@@ -1,0 +1,14 @@
+const v1 = /(foo(?!bar)baz)/duy;
+const v2 = /[[\cZ]?]/dsu;
+const v3 = /Y(?<a>.)\k<a>/iu;
+let v7 = 19621n;
+const v10 = v3[10];
+const v11 = [v2];
+const v12 = [v2,v2,v1,v11,v10];
+[v12,v12];
+v1.flags = v10;
+v7 = -121158129n;
+const v14 = v10;
+const v15 = v14 - v11;
+v1 * v11;
+-121158129n >>> v15;

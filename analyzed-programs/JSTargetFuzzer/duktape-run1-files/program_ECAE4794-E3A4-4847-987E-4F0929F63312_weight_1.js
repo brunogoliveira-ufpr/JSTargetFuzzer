@@ -1,0 +1,12 @@
+new Uint32Array(7);
+new Int8Array(2);
+const v11 = new Uint8ClampedArray(1);
+v11[8] = Int8Array;
+Int8Array >>> 268435440n;
+Math.cbrt(Int8Array);
+const v16 = Uint8ClampedArray + 301874981;
+Math.atan(301874981);
+const v18 = Uint8ClampedArray % v16;
+Math.cbrt(Uint8ClampedArray);
+~v18;
+Math.floor(v16);

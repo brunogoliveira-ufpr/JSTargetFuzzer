@@ -1,0 +1,16 @@
+const v0 = [];
+const v1 = [v0,v0];
+const v2 = [v1,v0];
+const v3 = [v2,v0,v2,v1,v2];
+const v4 = [v0,v1,v2,v3];
+const v5 = [v4,v4];
+const v6 = [v4,v0,v1,v3];
+new Array(7);
+-Infinity;
+-128 !== v5;
+const v17 = v0[1];
+Array.valueOf = Array;
+const v18 = v17 || Array;
+v6[1000000000.0] = v1;
+v18 / v17;
+Object.defineProperty(v0, "h", { writable: true, configurable: true, enumerable: true, get: Array, set: Array });

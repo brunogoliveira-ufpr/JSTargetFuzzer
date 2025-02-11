@@ -1,0 +1,10 @@
+const v2 = new Float64Array(3415);
+new Int8Array(3507);
+const v8 = new BigInt64Array(7);
+v8[16] = 262909449;
+v2.__proto__ = v2;
+Math.asin(-22776);
+const v23 = 3415 * 7.966705470072633e+307;
+const v24 = ~3415;
+(-1) ** v23;
+-22776 ^ v24;

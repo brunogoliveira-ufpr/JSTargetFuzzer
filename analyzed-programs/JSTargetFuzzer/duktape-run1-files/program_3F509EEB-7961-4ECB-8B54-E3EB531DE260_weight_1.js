@@ -1,0 +1,13 @@
+const v5 = new Float32Array(337);
+const v8 = new Int8Array(4096);
+const v11 = new Float64Array(257);
+const v15 = ("symbol").length;
+v8.f = Float32Array;
+v11.a = v15;
+v5.byteOffset %= v15;
+Object.defineProperty("symbol", Float64Array, { writable: true, enumerable: true, value: 257 });
+const t8 = "UyLGg";
+t8.toString = "symbol";
+231589409 ^ (231589409 >> Float64Array);
+Math.abs(231589409);
+Float64Array - v11;

@@ -1,0 +1,11 @@
+new Uint8ClampedArray(1256);
+new Float64Array(232);
+new Float64Array(0);
+Math.cosh(1256);
+const v18 = 536870889 << 536870889;
+Math.tan(v18);
+Math.min(v18);
+1256 || 536870889;
+~536870889;
+~536870889;
+new Date();

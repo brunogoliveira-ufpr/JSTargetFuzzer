@@ -1,0 +1,14 @@
+let v2 = -1907664844;
+const v4 = [268435440];
+const v6 = [v4,,v4,[,],v4];
+const v7 = /X/divmg;
+/RKN/dym;
+const v9 = /foo(?!bar)bazjfoo(?=bar)baz*/sg;
+v7[14] = v2;
+v2 = -587213191;
+v7.sticky = v6;
+v9[6] >>= v2;
+v9[-587213191] /= v2;
+new BigUint64Array(16);
+new Uint8ClampedArray(16);
+new BigUint64Array(84);

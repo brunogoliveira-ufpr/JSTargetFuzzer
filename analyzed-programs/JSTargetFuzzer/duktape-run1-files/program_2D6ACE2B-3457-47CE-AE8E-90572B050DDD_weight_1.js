@@ -1,0 +1,11 @@
+const v0 = [13,0,-128,-536870912,1671021003,46137];
+const v1 = [2,1073741825];
+[536870912,36135];
+new BigInt64Array(118);
+new Int32Array(724);
+new Int8Array(1437);
+v0[Symbol.toPrimitive];
+-9223372036854775808 ^ -9223372036854775808;
+Math.hypot(v0);
++v1;
+Math.ceil(v0);

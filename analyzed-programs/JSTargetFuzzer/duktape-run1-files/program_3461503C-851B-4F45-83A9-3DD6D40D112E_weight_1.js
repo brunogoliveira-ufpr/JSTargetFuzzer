@@ -1,0 +1,14 @@
+new Float32Array(257);
+const v8 = new Uint16Array(64);
+new Int16Array(448);
+let v12 = 1;
+const v14 = new BigInt64Array(v12);
+new Uint16Array(1);
+new Float32Array(3716);
+Math.log2(260841606);
+Math.log(260841606);
+v12--;
+v8 & 46103;
+let v29 = 10;
+Math.max(v14);
+-5.0 + v29++;

@@ -1,0 +1,10 @@
+const v0 = [-7,10,16,1073741823,255,65536,14,9,1024];
+[64,65535,129,-11,-13,-1256697419];
+[2147483647,0,-14249,-1024,6];
+let v3 = "K";
+const v13 = new WeakMap();
+("setUint32")[v0];
+v3 = v13[-32501n];
+new Int8Array(512);
+new Uint8ClampedArray(255);
+new Float32Array(2);

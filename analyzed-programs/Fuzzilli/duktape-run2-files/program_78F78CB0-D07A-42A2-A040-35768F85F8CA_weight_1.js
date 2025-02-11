@@ -1,0 +1,15 @@
+const v2 = new Float32Array(0);
+const v5 = new Uint32Array(257);
+const v8 = new Int16Array(4);
+const v12 = [3.0];
+let v13 = [-0.0,1.0,-4.0,555.806355340761,-1.1272591661337872e+308];
+let v14 = [8.813692136831836];
+const v15 = v14.length;
+v13 = v12;
+v5.byteLength;
+const v17 = v14[v2];
+v12.toString = v17;
+v14.valueOf = v17;
+v13[v15] = -9.826730627426812;
+v8[NaN];
+v14 = v13;

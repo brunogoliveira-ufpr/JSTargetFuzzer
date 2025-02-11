@@ -1,0 +1,10 @@
+new Uint8ClampedArray(7);
+new Int32Array(1);
+new Int16Array(1205);
+new Uint16Array(2);
+new Float32Array(124);
+new Uint16Array(0);
+new Int16Array(2);
+new Int16Array(3);
+const v29 = new BigInt64Array(127);
+new BigInt64Array(v29, 65537, 7);

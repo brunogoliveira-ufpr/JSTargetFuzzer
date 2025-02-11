@@ -1,0 +1,12 @@
+const v2 = new Float64Array(3);
+new Uint8Array(9);
+const v8 = new Float32Array(16);
+const v19 = [256,1699256018];
+Reflect.apply(v8.slice, v2, v19);
+let v23 = -14;
+Math.cbrt(-790023.9565539581);
+Math.atan(Reflect);
+Float64Array + v23;
+Math.sin(!Reflect);
+v23 >> Float64Array;
+v23++;

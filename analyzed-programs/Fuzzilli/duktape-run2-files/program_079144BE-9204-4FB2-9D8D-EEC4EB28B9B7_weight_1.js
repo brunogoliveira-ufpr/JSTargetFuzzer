@@ -1,0 +1,11 @@
+new Int16Array(128);
+new Uint8ClampedArray(1000);
+new Float32Array(11);
+let v11 = 63225;
+Math.atan(-2.2250738585072014e-308);
+Math.asinh(v11);
+Math.pow(-2.2250738585072014e-308, Uint8ClampedArray);
+Math.expm1(-2.2250738585072014e-308);
+v11--;
+Math.log10(undefined);
+new WeakSet();

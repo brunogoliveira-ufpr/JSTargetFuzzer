@@ -1,0 +1,10 @@
+const v1 = new Set();
+[v1,Set,[v1,Set,Set,Set,v1],Set,Set];
+[v1,v1,Set,Set,Set];
+const v7 = new Uint32Array(257);
+new BigInt64Array(2);
+let v13 = new Uint32Array(3);
+v13 = v7;
+new Int8Array(250);
+new Uint16Array(1);
+new BigInt64Array(8);

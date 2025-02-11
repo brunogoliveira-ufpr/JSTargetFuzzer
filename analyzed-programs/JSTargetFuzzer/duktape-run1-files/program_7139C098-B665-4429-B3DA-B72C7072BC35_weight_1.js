@@ -1,0 +1,10 @@
+new Int8Array(2688);
+new Int8Array(127);
+const v8 = new BigUint64Array(255);
+("5")[536870912];
+delete v8?.byteLength;
+Math.sign(0.0);
+!3 + 0.0;
+Math.cbrt(0.0);
+Math.log10("symbol");
+Math.asin("symbol");

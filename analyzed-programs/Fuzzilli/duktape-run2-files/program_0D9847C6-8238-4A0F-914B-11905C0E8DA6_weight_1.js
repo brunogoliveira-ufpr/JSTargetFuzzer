@@ -1,0 +1,14 @@
+let v4 = BigUint64Array;
+new v4(225);
+const v8 = new Uint8Array(593);
+new BigInt64Array(55);
+const v12 = [2022137236,-65536,268435441,-4294967297];
+let v13 = [-42141];
+[65535,-256,127,-5,-11812,14,-9007199254740992];
+let v15 = v8.byteLength;
+({"a":v4,"b":v13,"length":v15,} = v12);
+let v19 = 1000000.0;
+Math.imul(-514135225, v19);
+-514135225 & -14540;
+--v19;
+Math.round(v19);

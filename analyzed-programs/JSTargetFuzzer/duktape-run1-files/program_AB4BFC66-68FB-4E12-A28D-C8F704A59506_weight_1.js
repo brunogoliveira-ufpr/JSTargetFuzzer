@@ -1,0 +1,14 @@
+const v0 = [-1073741824,-37554,-9007199254740991,2];
+[617774959];
+[-1,0,36290];
+new Int32Array(3550);
+const v8 = new Uint16Array(13);
+let v10 = Uint8ClampedArray;
+new v10(129);
+const v18 = Math.cbrt(v0);
+Math.sqrt(v0);
+Math.cbrt(-4294967297);
++v10;
+--v10;
+860.6459410172979 instanceof Int32Array;
+Object.defineProperty(v8, Uint16Array, { writable: true, enumerable: true, value: v18 });

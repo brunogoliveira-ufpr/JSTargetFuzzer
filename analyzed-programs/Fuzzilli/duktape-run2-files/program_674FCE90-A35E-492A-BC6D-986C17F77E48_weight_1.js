@@ -1,0 +1,9 @@
+new Uint16Array(0);
+new BigInt64Array(11);
+new Int16Array(237);
+new Uint16Array(0);
+new Uint8ClampedArray(42);
+new BigInt64Array(3872);
+new Float64Array(64);
+new Uint8Array(1651);
+new Uint8ClampedArray(257);

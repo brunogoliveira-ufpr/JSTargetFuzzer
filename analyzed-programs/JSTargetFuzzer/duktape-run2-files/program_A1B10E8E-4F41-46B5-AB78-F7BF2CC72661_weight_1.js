@@ -1,0 +1,12 @@
+const v2 = new Uint16Array(1077);
+const v5 = new BigUint64Array(4);
+const v8 = new Uint8ClampedArray(1000);
+[-4294967296,-5,-2147483648];
+const v10 = [9,9007199254740990,2147483649];
+const v11 = [47747,-364090658,9,536870888];
+v5["map"](v11, v11);
+[[v8,v2,Uint8ClampedArray],v10,v11,1000,Uint16Array];
+[v10,v10,v2];
+new Uint32Array(190);
+new Uint32Array(8);
+new Uint16Array(17);

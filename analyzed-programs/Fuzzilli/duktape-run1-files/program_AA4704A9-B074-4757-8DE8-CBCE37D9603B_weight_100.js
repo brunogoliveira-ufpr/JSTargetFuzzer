@@ -1,0 +1,16 @@
+["7",268435440];
+[1073741824,[-47463]];
+new Float32Array(128);
+new Int8Array();
+"symbol" + Array(257);
+const v27 = new Int32Array(8);
+new Int8Array(6);
+const v34 = new Uint8Array();
+v34.buffer = -44531;
+"number" === "number";
+7 < 7;
+v27 >= 8;
+-2147483647 % 132.84333894457086;
+const v49 = new ArrayBuffer(ArrayBuffer, Infinity);
+new Float64Array(v49);
+[0.6664693606087961,3.0,5.0,-Infinity,-1.0301071771461991,-8.309821057575142];

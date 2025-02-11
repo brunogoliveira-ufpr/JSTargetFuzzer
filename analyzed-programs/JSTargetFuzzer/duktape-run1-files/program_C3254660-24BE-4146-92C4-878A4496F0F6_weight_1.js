@@ -1,0 +1,10 @@
+new BigUint64Array(1616);
+new Float64Array(575);
+new Int32Array(9);
+[-2147483647,53887,1073741824,104345195,-9,-65535,-2099871319,-519854935,268435440];
+[1975461108,536870889];
+[1073741824];
+new Float64Array(128);
+const v20 = new Uint8Array(512);
+const v23 = new Uint8ClampedArray(4096);
+v23.__proto__ = v20;

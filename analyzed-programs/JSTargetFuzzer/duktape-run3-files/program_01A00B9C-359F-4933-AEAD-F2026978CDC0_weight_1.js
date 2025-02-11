@@ -1,0 +1,15 @@
+new BigInt64Array(6);
+const v8 = new BigUint64Array(2);
+let v9 = 3;
+const v11 = new Uint8ClampedArray(v9);
+-2043127939n << v8;
+const t4 = "m";
+t4[5] = v8;
+v11 !== 6;
+let v23 = 0.9462918748731537;
++v23;
+v23++;
+const v26 = 2 >> 2;
+v9++;
+Math.acos(1393479193);
+v26 >>> 43462;

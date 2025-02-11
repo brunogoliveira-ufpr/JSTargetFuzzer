@@ -1,0 +1,10 @@
+new Uint8ClampedArray(1000);
+new Int16Array(1000);
+new Float64Array(255);
+[4294967296,12,-806252440,9007199254740990];
+const v13 = [255,2,4096,2011976055];
+[7,257,-1,668424652,-4294967296,268435440,-1285132138,12,-9007199254740991];
+v13 * Uint8ClampedArray;
+new BigUint64Array(3686);
+new Uint8ClampedArray(64);
+new Uint8ClampedArray(6);

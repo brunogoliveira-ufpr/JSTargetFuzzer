@@ -1,0 +1,12 @@
+new Int32Array(3);
+new Float32Array(216);
+const v8 = new Uint8Array(1);
+const v11 = new Uint16Array(196);
+new Int8Array(244);
+const v17 = new Int8Array(188);
+-v11;
+512 && v11;
+Math.random();
+Math.imul(-4, v11);
+v8.length = 536870912;
+v17[536870887];

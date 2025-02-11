@@ -1,0 +1,10 @@
+const v2 = new Uint8ClampedArray(8);
+new Uint16Array(3772);
+const v8 = new BigInt64Array(4);
+new BigInt64Array(8, 8, ...v2, 467, -5, 467);
+[-4294967295,-906148528,129,25127,-9223372036854775807,-65536];
+let v17 = [-1331371452,2116180730,5];
+const v18 = [16];
+new Uint8ClampedArray(v17);
+v17 = v18;
+v8 < BigInt64Array;

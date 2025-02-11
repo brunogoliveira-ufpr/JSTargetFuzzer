@@ -1,0 +1,13 @@
+[];
+const v3 = new BigInt64Array(44);
+new Float64Array(2);
+new Uint8Array(129);
+v3.length = 13;
+new Float64Array(-2147483649, 13, 44);
+let v15 = -5;
+let v16 = 1177023917;
+let v17 = ++v16;
+Math.log2(v15);
+~(++v15);
+++v17;
+!-2147483649;

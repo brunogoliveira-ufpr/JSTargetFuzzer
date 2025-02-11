@@ -1,0 +1,10 @@
+const v5 = new Uint8ClampedArray(1000);
+new Uint8Array(89);
+const v11 = new Uint32Array(256);
+new BigInt64Array(15);
+const v17 = new Float64Array(3216);
+new BigInt64Array(1486);
+c = v17;
+delete v5[240];
+v5[1] = Uint8ClampedArray;
+v11.byteOffset;
