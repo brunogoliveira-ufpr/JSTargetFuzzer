@@ -17,7 +17,7 @@ JSTargetFuzzer-v1.0 is an approach utilizing a novel code-coverage fuzzing guida
 * Instructions to install JSTargetFuzzer
   * In the terminal, run the following commands to clone the repository
   * ```bash
-    git clone https://anonymous.4open.science/r/JSTargetFuzzer/
+    git clone git@github.com:brunogoliveira-ufpr/JSTargetFuzzer.git
   
 ## Usage
 If everything is working properly, you can run JSTargetFuzzer using the command-line:
